@@ -4,5 +4,5 @@ int a , b
  a=12
 b=13
 scanf( a+b)
-    printf(" the value of a and b is :")
+    printf(" the value of a and b is :");
 }
