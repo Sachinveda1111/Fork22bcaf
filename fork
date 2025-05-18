@@ -1,1 +1,7 @@
-HI.
+int a , b
+{  
+
+ a=12
+b=13
+    printf(" the value of a and b is :")
+}
